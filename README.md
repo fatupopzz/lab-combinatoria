@@ -141,7 +141,7 @@ python3 problema3.py
 
 ## Autor
 
-Universidad del Valle de Guatemala - Matemática Discreta
+Universidad del Valle de Guatemala
 
 ## Licencia
 
